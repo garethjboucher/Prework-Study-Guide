@@ -13,6 +13,7 @@ h1,
 h2 {
     text-align: center;
 }
+/* Main Content */
 img {
     display: block;
     height: 50px;
@@ -25,6 +26,7 @@ ul {
     font-size: 20px;
 }
 p {
+    text-align: center;
     text-align: center;
     font-size: 30px;
   }
